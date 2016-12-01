@@ -1,4 +1,4 @@
-# Buyflix Starter Project for KIEI-924
+# Week 10 Project for KIEI-924
 
 ## Getting Started
 
